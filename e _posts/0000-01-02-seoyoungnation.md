@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-It's my test
+There's no pencil btw
 Use the left arrow to go back!
